@@ -6,3 +6,7 @@
 {% comment %} 
     Is this treated as a comment?
 {% endcomment %}
+
+<!---
+is standardized html comments treated as comments
+-->
