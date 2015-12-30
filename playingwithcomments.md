@@ -3,3 +3,6 @@
 
 [comment]: # are brackets 
 
+{% comment %} 
+    Is this treated as a comment?
+{% endcomment %}
